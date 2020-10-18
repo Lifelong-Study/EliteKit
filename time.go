@@ -1,4 +1,4 @@
-package LazyKit
+package EliteKit
 
 import (
 	"log"
